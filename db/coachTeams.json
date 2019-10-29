@@ -1,0 +1,16 @@
+{
+  "coachTeams": {
+    "coachTeam1": {
+      "coachId": "coach1",
+      "teamId": "team1"
+    },
+    "coachTeam2": {
+      "coachId": "coach2",
+      "teamId": "team2"
+    },
+    "coachTeam3": {
+      "coachId": "coach2",
+      "teamId": "team3"
+    } 
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "teams": {
+    "team1": {
+      "name": "Titans",
+      "city": "Nashville",
+      "wins": 4
+    },
+    "team2": {
+      "name": "Falcons",
+      "city": "Atlanta",
+      "wins": 2
+    },
+    "team3": {
+      "name": "Patriots",
+      "city": "Foxborough",
+      "wins": 7
+    }
+  }
+}
