@@ -1,0 +1,19 @@
+{
+  "coaches": {
+    "coach1": {
+      "name": "Mike",
+      "age": 43,
+      "location": "Tennessee"
+    },
+    "coach2": {
+      "name": "Dan",
+      "age": 44,
+      "location": "Georgia"
+    },
+    "coach3": {
+      "name": "Bill",
+      "age": 67,
+      "location": "Massachusetts"
+    }
+  }
+}
